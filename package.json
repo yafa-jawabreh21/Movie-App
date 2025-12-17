@@ -4,12 +4,13 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start" : "npx json-server --host 0.0.0.0 --port $PORT --watch data.json"
+    "start": "json-server --host 0.0.0.0 --port $PORT --watch data.json"
   },
   "author": "",
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "json-server": "^1.0.0-beta.3"
+    "json-server": "^1.0.0-beta.3",
+    "react-scripts": "^5.0.1"
   }
 }
