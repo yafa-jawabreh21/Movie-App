@@ -1,0 +1,851 @@
+{
+  "movie": [
+        {
+            "adult": false,
+            "backdrop_path": "/hpXBJxLD2SEf8l2CspmSeiHrBKX.webp",
+            "genre_ids": [
+                18,
+                27,
+                14
+            ],
+            "id": 1062722,
+            "original_language": "en",
+            "original_title": "Frankenstein",
+            "overview": "Dr. Victor Frankenstein, a brilliant but egotistical scientist, brings a creature to life in a monstrous experiment that ultimately leads to the undoing of both the creator and his tragic creation.",
+            "popularity": 813.4799,
+            "poster_path": "/v9NLaLBbrkDwq44qG51v8T6sPuI.webp",
+            "release_date": "2025-10-17",
+            "title": "Frankenstein",
+            "video": false,
+            "vote_average": 7.938,
+            "vote_count": 473
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oe2TOWykcLSGq67XPH4Bb0N1oU3.webp",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "id": 1197137,
+            "original_language": "en",
+            "original_title": "Black Phone 2",
+            "overview": "Four years after escaping The Grabber, Finney Blake is struggling with his life after captivity. When his sister Gwen begins receiving calls in her dreams from the black phone and seeing disturbing visions of three boys being stalked at a winter camp, the siblings become determined to solve the mystery and confront a killer who has grown more powerful in death and more significant to them than either could imagine.",
+            "popularity": 377.2344,
+            "poster_path": "/xUWUODKPIilQoFUzjHM6wKJkP3Y.webp",
+            "release_date": "2025-10-15",
+            "title": "Black Phone 2",
+            "video": false,
+            "vote_average": 7.25,
+            "vote_count": 352
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tLf5hjuO4gx62lVojPiHsIzCroh.webp",
+            "genre_ids": [
+                53,
+                28
+            ],
+            "id": 1025527,
+            "original_language": "fr",
+            "original_title": "Six jours",
+            "overview": "11 years ago, inspector Malik couldn’t solve a kidnapping case and a little girl died. Now with only a few days before the crime gets classified, he decides to reopen the case. Malik owes it to the mother and to himself. As he digs into the past, a child is kidnapped again. The pattern is the same one as a decade ago, it’s no coincidence. Malik knows he has a few days to make things right and to bring justice.",
+            "popularity": 362.8095,
+            "poster_path": "/foyiQu23zq4WhmffnQkFiNAvqcJ.webp",
+            "release_date": "2024-12-11",
+            "title": "Abyss",
+            "video": false,
+            "vote_average": 5.903,
+            "vote_count": 62
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/82lM4GJ9uuNvNDOEpxFy77uv4Ak.webp",
+            "genre_ids": [
+                28,
+                878,
+                12
+            ],
+            "id": 1242898,
+            "original_language": "en",
+            "original_title": "Predator: Badlands",
+            "overview": "Cast out from his clan, a young Predator finds an unlikely ally in a damaged android and embarks on a treacherous journey in search of the ultimate adversary.",
+            "popularity": 290.3472,
+            "poster_path": "/sMybEeAn3aFXsIUUcWPSFXlS6qS.webp",
+            "release_date": "2025-11-05",
+            "title": "Predator: Badlands",
+            "video": false,
+            "vote_average": 7.043,
+            "vote_count": 140
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qskMJe62v9kPj4tD9UawIGW0WxD.webp",
+            "genre_ids": [
+                80,
+                28
+            ],
+            "id": 1096563,
+            "original_language": "en",
+            "original_title": "End of Loyalty",
+            "overview": "When the head of a notorious crime family is murdered, his son Grant is hell bent on payback and the only person that can stop him from tearing the city apart and destroying himself in the process is his best friend and federal agent, Ray Rose.",
+            "popularity": 248.9448,
+            "poster_path": "/c4QA1rFQcyBZKaOOdUrDeL1G9Er.webp",
+            "release_date": "2023-03-07",
+            "title": "End of Loyalty",
+            "video": false,
+            "vote_average": 5.25,
+            "vote_count": 4
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gqTz24ZRsCP6AKjARmEivY7m0cK.webp",
+            "genre_ids": [
+                16,
+                28,
+                10749,
+                14
+            ],
+            "id": 1218925,
+            "original_language": "ja",
+            "original_title": "チェンソーマン レゼ篇",
+            "overview": "In a brutal war between devils, hunters, and secret enemies, a mysterious girl named Reze has stepped into Denji's world, and he faces his deadliest battle yet, fueled by love in a world where survival knows no rules.",
+            "popularity": 241.7255,
+            "poster_path": "/xdzLBZjCVSEsic7m7nJc4jNJZVW.webp",
+            "release_date": "2025-09-19",
+            "title": "Chainsaw Man - The Movie: Reze Arc",
+            "video": false,
+            "vote_average": 8.248,
+            "vote_count": 157
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vZK3f5N8Fv2LcyFYLwt6dz0HE1H.webp",
+            "genre_ids": [
+                28,
+                35
+            ],
+            "id": 1161617,
+            "original_language": "en",
+            "original_title": "Code 3",
+            "overview": "A burned-out paramedic tries to survive his last 24 hours on the job while training a new recruit.",
+            "popularity": 231.0702,
+            "poster_path": "/gIAYMDb5mIAeCAj76q1sRsKjkzo.webp",
+            "release_date": "2025-09-12",
+            "title": "Code 3",
+            "video": false,
+            "vote_average": 7.267,
+            "vote_count": 74
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/iZLqwEwUViJdSkGVjePGhxYzbDb.webp",
+            "genre_ids": [
+                878,
+                53
+            ],
+            "id": 755898,
+            "original_language": "en",
+            "original_title": "War of the Worlds",
+            "overview": "Will Radford is a top analyst for Homeland Security who tracks potential threats through a mass surveillance program, until one day an attack by an unknown entity leads him to question whether the government is hiding something from him... and from the rest of the world.",
+            "popularity": 221.8024,
+            "poster_path": "/yvirUYrva23IudARHn3mMGVxWqM.webp",
+            "release_date": "2025-07-29",
+            "title": "War of the Worlds",
+            "video": false,
+            "vote_average": 4.332,
+            "vote_count": 695
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1RgPyOhN4DRs225BGTlHJqCudII.webp",
+            "genre_ids": [
+                16,
+                28,
+                14,
+                53
+            ],
+            "id": 1311031,
+            "original_language": "ja",
+            "original_title": "劇場版「鬼滅の刃」無限城編 第一章 猗窩座再来",
+            "overview": "The Demon Slayer Corps are drawn into the Infinity Castle, where Tanjiro, Nezuko, and the Hashira face terrifying Upper Rank demons in a desperate fight as the final battle against Muzan Kibutsuji begins.",
+            "popularity": 178.7834,
+            "poster_path": "/fWVSwgjpT2D78VUh6X8UBd2rorW.webp",
+            "release_date": "2025-07-18",
+            "title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+            "video": false,
+            "vote_average": 7.808,
+            "vote_count": 517
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kHOfxq7cMTXyLbj0UmdoGhT540O.webp",
+            "genre_ids": [
+                878,
+                28,
+                35
+            ],
+            "id": 507244,
+            "original_language": "en",
+            "original_title": "Afterburn",
+            "overview": "Set against the backdrop of a postapocalyptic Earth whose Eastern Hemisphere was destroyed by a massive solar flare, leaving what life remains mutated from radiation and fallout. The story revolves around a group of treasure hunters who extract such objects as the Mona Lisa, the Rosetta Stone and the Crown Jewels while facing rival hunters, mutants and pirates.",
+            "popularity": 174.7761,
+            "poster_path": "/xR0IhVBjbNU34b8erhJCgRbjXo3.webp",
+            "release_date": "2025-08-20",
+            "title": "Afterburn",
+            "video": false,
+            "vote_average": 6.893,
+            "vote_count": 107
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ygOR390GzOX5Quv0kAAcUNDG7fp.webp",
+            "genre_ids": [
+                12,
+                28,
+                27
+            ],
+            "id": 1511789,
+            "original_language": "en",
+            "original_title": "Captain Hook: The Cursed Tides",
+            "overview": "In the aftermath of a devastating defeat by his archnemesis Admiral Smee, Captain Hook finds refuge in the coastal town of Eldritch Landing.",
+            "popularity": 153.883,
+            "poster_path": "/bcP7FtskwsNp1ikpMQJzDPjofP5.webp",
+            "release_date": "2025-07-11",
+            "title": "Captain Hook: The Cursed Tides",
+            "video": false,
+            "vote_average": 5.1,
+            "vote_count": 34
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ajIRfvb5MkpH8spMJ5OCyg2enVS.webp",
+            "genre_ids": [
+                27
+            ],
+            "id": 1561969,
+            "original_language": "hi",
+            "original_title": "बारामूला",
+            "overview": "A cop's inquiry into child kidnappings unravels chilling secrets as supernatural events endanger his family and the peaceful town of Baramulla.",
+            "popularity": 135.5083,
+            "poster_path": "/6Qc0wDC0NDqi8Bzyh7i2sWViR6V.webp",
+            "release_date": "2025-11-06",
+            "title": "Baramulla",
+            "video": false,
+            "vote_average": 5.5,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qwK9soQmmJ7kRdjLZVXblw3g7AQ.webp",
+            "genre_ids": [
+                28,
+                12,
+                53,
+                80,
+                18
+            ],
+            "id": 7451,
+            "original_language": "en",
+            "original_title": "xXx",
+            "overview": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not exactly thrilled. His mission: to gather information on an organization that may just be planning the destruction of the world, led by the nihilistic Yorgi.",
+            "popularity": 132.3959,
+            "poster_path": "/xeEw3eLeSFmJgXZzmF2Efww0q3s.webp",
+            "release_date": "2002-08-09",
+            "title": "xXx",
+            "video": false,
+            "vote_average": 5.966,
+            "vote_count": 4626
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1leYKN0DPNffpldGnCWnbXaiWoD.webp",
+            "genre_ids": [
+                28,
+                53
+            ],
+            "id": 1305717,
+            "original_language": "en",
+            "original_title": "Hunting Grounds",
+            "overview": "Desperate to find refuge for her children, Chloe Marvino runs away from her Mafia tied husband, and finds shelter in a cabin with a recluse drifter named Jake. But as her husband's henchmen draw closer to her, it turns out that Jake is the biggest enemy of them all.",
+            "popularity": 127.1838,
+            "poster_path": "/cgZjpqRQt9sk6XMCwZ3B1NPAaoy.webp",
+            "release_date": "2025-05-16",
+            "title": "Hunting Grounds",
+            "video": false,
+            "vote_average": 6.704,
+            "vote_count": 54
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/s94NjfKkcSczZ1FembwmQZwsuwY.webp",
+            "genre_ids": [
+                878,
+                12,
+                28
+            ],
+            "id": 617126,
+            "original_language": "en",
+            "original_title": "The Fantastic 4: First Steps",
+            "overview": "Against the vibrant backdrop of a 1960s-inspired, retro-futuristic world, Marvel's First Family is forced to balance their roles as heroes with the strength of their family bond, while defending Earth from a ravenous space god called Galactus and his enigmatic Herald, Silver Surfer.",
+            "popularity": 124.9954,
+            "poster_path": "/cm8TNGBGG0aBfWj0LgrESHv8tir.webp",
+            "release_date": "2025-07-23",
+            "title": "The Fantastic 4: First Steps",
+            "video": false,
+            "vote_average": 7.098,
+            "vote_count": 2255
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/42xAe6kVeTjml9Tww6vRoWa5tay.webp",
+            "genre_ids": [
+                28,
+                18,
+                53
+            ],
+            "id": 861451,
+            "original_language": "kn",
+            "original_title": "Martin",
+            "overview": "Martin revolves around Lt. Brigadier Arjun Saxena, whose journey takes him from Pakistan to India to discover his real identity and fight against black market dealers, who are involved with terrorists to orchestrate massive attacks in the country.",
+            "popularity": 122.4379,
+            "poster_path": "/bYe2ZjUhb4Kje0BpWE6kN34u2hv.webp",
+            "release_date": "2024-10-11",
+            "title": "Martin",
+            "video": false,
+            "vote_average": 3.5,
+            "vote_count": 20
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qcDDn7WeKBenM4nLlOPXAeJ4hpg.webp",
+            "genre_ids": [
+                53,
+                28,
+                12
+            ],
+            "id": 1280450,
+            "original_language": "en",
+            "original_title": "Stolen Girl",
+            "overview": "In 1993, Maureen’s six-year-old daughter Amina is snuck out of the country by her ex-husband, Karim. After years of unsuccessful attempts to find her, Maureen intersects with a professional retriever of internationally abducted children who promises to help her find Amina in exchange for her collaboration.",
+            "popularity": 109.4404,
+            "poster_path": "/fZlNXEHZsBp7unqw009MeBbMv87.webp",
+            "release_date": "2025-09-04",
+            "title": "Stolen Girl",
+            "video": false,
+            "vote_average": 6.596,
+            "vote_count": 68
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/f2SUTv6qGGQK9k8gInnG0z9mBN3.webp",
+            "genre_ids": [
+                27
+            ],
+            "id": 1373276,
+            "original_language": "es",
+            "original_title": "Eran brujas",
+            "overview": "Mia, an expert speaker in witchcraft, takes a trip to see a therapist. On the way she meets a group of young people who will begin to die one by one to bring an evil spirit back from death.",
+            "popularity": 106.9766,
+            "poster_path": "/85rlLCjpHbY0puR1FSL7jYyN1cu.webp",
+            "release_date": "2025-09-08",
+            "title": "They Were Witches",
+            "video": false,
+            "vote_average": 3.0,
+            "vote_count": 1
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/w3Bi0wygeFQctn6AqFTwhGNXRwL.webp",
+            "genre_ids": [
+                14,
+                10402,
+                35,
+                16
+            ],
+            "id": 803796,
+            "original_language": "en",
+            "original_title": "KPop Demon Hunters",
+            "overview": "When K-pop superstars Rumi, Mira and Zoey aren't selling out stadiums, they're using their secret powers to protect their fans from supernatural threats.",
+            "popularity": 107.9038,
+            "poster_path": "/zT7Lhw3BhJbMkRqm9Zlx2YGMsY0.webp",
+            "release_date": "2025-06-20",
+            "title": "KPop Demon Hunters",
+            "video": false,
+            "vote_average": 8.231,
+            "vote_count": 1846
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ev9kxdoJ5IYVprt1OvH2SMWJdU1.webp",
+            "genre_ids": [
+                27,
+                35,
+                14,
+                18
+            ],
+            "id": 1284120,
+            "original_language": "no",
+            "original_title": "Den stygge stesøsteren",
+            "overview": "In a fairy-tale kingdom where beauty is a brutal business, Elvira battles to compete with her incredibly beautiful stepsister, and she will go to any length to catch the prince’s eye.",
+            "popularity": 102.4866,
+            "poster_path": "/rayAREIKtSinuov10GvrZHyXfXH.webp",
+            "release_date": "2025-03-07",
+            "title": "The Ugly Stepsister",
+            "video": false,
+            "vote_average": 7.338,
+            "vote_count": 631
+        }
+    
+  ],
+  "series":[
+    {
+            "adult": false,
+            "backdrop_path": "/tsRy63Mu5cu8etL1X7ZLyf7UP1M.webp",
+            "genre_ids": [
+                18,
+                80
+            ],
+            "id": 1396,
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "Breaking Bad",
+            "overview": "Walter White, a New Mexico chemistry teacher, is diagnosed with Stage III cancer and given a prognosis of only two years left to live. He becomes filled with a sense of fearlessness and an unrelenting desire to secure his family's financial future at any cost as he enters the dangerous world of drugs and crime.",
+            "popularity": 92.4552,
+            "poster_path": "/ztkUQFLlC19CCMYHW9o1zWhJRNq.webp",
+            "first_air_date": "2008-01-20",
+            "name": "Breaking Bad",
+            "vote_average": 8.9,
+            "vote_count": 16364
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mwczMJeoQrsPERcyP1e900jo3Jv.webp",
+            "genre_ids": [
+                18
+            ],
+            "id": 219246,
+            "origin_country": [
+                "KR"
+            ],
+            "original_language": "ko",
+            "original_name": "폭싹 속았수다",
+            "overview": "In Jeju, a spirited girl and a steadfast boy's island story blossoms into a lifelong tale of setbacks and triumphs — proving love endures across time.",
+            "popularity": 21.8144,
+            "poster_path": "/1VC3sEFxYXYDqQUCAnvWfUsYg1s.webp",
+            "first_air_date": "2025-03-07",
+            "name": "When Life Gives You Tangerines",
+            "vote_average": 8.776,
+            "vote_count": 417
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sYXLeu5usz6yEz0k00FYvtEdodD.webp",
+            "genre_ids": [
+                16,
+                10765,
+                18,
+                10759
+            ],
+            "id": 94605,
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "Arcane",
+            "overview": "Amid the stark discord of twin cities Piltover and Zaun, two sisters fight on rival sides of a war between magic technologies and clashing convictions.",
+            "popularity": 22.5177,
+            "poster_path": "/fqldf2t8ztc9aiwn3k6mlX3tvRT.webp",
+            "first_air_date": "2021-11-06",
+            "name": "Arcane",
+            "vote_average": 8.754,
+            "vote_count": 5451
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7oBGhqJIghRBvOwo5Qe0yM0cnMc.webp",
+            "genre_ids": [
+                16,
+                10759,
+                10765
+            ],
+            "id": 246,
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "Avatar: The Last Airbender",
+            "overview": "In a war-torn world of elemental magic, a young boy reawakens to undertake a dangerous mystic quest to fulfill his destiny as the Avatar, and bring peace to the world.",
+            "popularity": 14.0093,
+            "poster_path": "/yaGt4GIutpbXHsv48tWceWg6s56.webp",
+            "first_air_date": "2005-02-21",
+            "name": "Avatar: The Last Airbender",
+            "vote_average": 8.753,
+            "vote_count": 4537
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/emGCHnRPru5LLWcKbSFzUEUisac.webp",
+            "genre_ids": [
+                16,
+                10759,
+                18,
+                10765
+            ],
+            "id": 209867,
+            "origin_country": [
+                "JP"
+            ],
+            "original_language": "ja",
+            "original_name": "葬送のフリーレン",
+            "overview": "Decades after her party defeated the Demon King, an old friend's funeral launches the elf wizard Frieren on a journey of self-discovery.",
+            "popularity": 30.4392,
+            "poster_path": "/dqZENchTd7lp5zht7BdlqM7RBhD.webp",
+            "first_air_date": "2023-09-29",
+            "name": "Frieren: Beyond Journey's End",
+            "vote_average": 8.732,
+            "vote_count": 557
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oVfucXvhutTpYExG9k06NJqnpT9.webp",
+            "genre_ids": [
+                10759,
+                35,
+                16
+            ],
+            "id": 37854,
+            "origin_country": [
+                "JP"
+            ],
+            "original_language": "ja",
+            "original_name": "ワンピース",
+            "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
+            "popularity": 38.0344,
+            "poster_path": "/cMD9Ygz11zjJzAovURpO75Qg7rT.webp",
+            "first_air_date": "1999-10-20",
+            "name": "One Piece",
+            "vote_average": 8.7,
+            "vote_count": 5033
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3siv3RaQrdr2tQiv9jHq71sLlzo.webp",
+            "genre_ids": [
+                18,
+                10751,
+                10759
+            ],
+            "id": 85077,
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "The Chosen",
+            "overview": "The life of Christ through the eyes of those who encountered him.",
+            "popularity": 35.0271,
+            "poster_path": "/dqVUFuNrMFWt7uGNWlpo91VKYOI.webp",
+            "first_air_date": "2019-04-21",
+            "name": "The Chosen",
+            "vote_average": 8.703,
+            "vote_count": 677
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/A6tMQAo6t6eRFCPhsrShmxZLqFB.webp",
+            "genre_ids": [
+                16,
+                10759,
+                10765,
+                35
+            ],
+            "id": 31911,
+            "origin_country": [
+                "JP"
+            ],
+            "original_language": "ja",
+            "original_name": "鋼の錬金術師 FULLMETAL ALCHEMIST",
+            "overview": "Disregard for alchemy’s laws ripped half of Edward Elric’s limbs from his body and left his brother Alphonse’s soul clinging to a suit of armor. To restore what was lost, the brothers seek the Philosopher’s Stone. Enemies and allies – the corrupt military, the Homunculi, and foreign alchemists – will alter the Elric brothers course, but their purpose will remain unchanged and their bond unbreakable.",
+            "popularity": 18.8196,
+            "poster_path": "/5ZFUEOULaVml7pQuXxhpR2SmVUw.webp",
+            "first_air_date": "2009-04-05",
+            "name": "Fullmetal Alchemist: Brotherhood",
+            "vote_average": 8.701,
+            "vote_count": 2284
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hPea3Qy5Gd6z4kJLUruBbwAH8Rm.webp",
+            "genre_ids": [
+                80,
+                18
+            ],
+            "id": 60059,
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "Better Call Saul",
+            "overview": "Six years before Saul Goodman meets Walter White. We meet him when the man who will become Saul Goodman is known as Jimmy McGill, a small-time lawyer searching for his destiny, and, more immediately, hustling to make ends meet. Working alongside, and, often, against Jimmy, is “fixer” Mike Ehrmantraut. The series tracks Jimmy’s transformation into Saul Goodman, the man who puts “criminal” in “criminal lawyer\".",
+            "popularity": 42.3208,
+            "poster_path": "/fC2HDm5t0kHl7mTm7jxMR31b7by.webp",
+            "first_air_date": "2015-02-08",
+            "name": "Better Call Saul",
+            "vote_average": 8.7,
+            "vote_count": 5953
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3URK0z9PzpVNJrGE7XOuyy6KFzk.webp",
+            "genre_ids": [
+                18
+            ],
+            "id": 87108,
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "Chernobyl",
+            "overview": "The true story of one of the worst man-made catastrophes in history: the catastrophic nuclear accident at Chernobyl. A tale of the brave men and women who sacrificed to save Europe from unimaginable disaster.",
+            "popularity": 15.4059,
+            "poster_path": "/hlLXt2tOPT6RRnjiUmoxyG1LTFi.webp",
+            "first_air_date": "2019-05-06",
+            "name": "Chernobyl",
+            "vote_average": 8.69,
+            "vote_count": 7245
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/9In9QgVJx7PlFOAgVHCKKSbo605.webp",
+            "genre_ids": [
+                16,
+                35,
+                10765,
+                10759
+            ],
+            "id": 60625,
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "Rick and Morty",
+            "overview": "Rick is a mentally-unbalanced but scientifically gifted old man who has recently reconnected with his family. He spends most of his time involving his young grandson Morty in dangerous, outlandish adventures throughout space and alternate universes. Compounded with Morty's already unstable family life, these events cause Morty much distress at home and school.",
+            "popularity": 58.8982,
+            "poster_path": "/WGRQ8FpjkDTzivQJ43t94bOuY0.webp",
+            "first_air_date": "2013-12-02",
+            "name": "Rick and Morty",
+            "vote_average": 8.685,
+            "vote_count": 10487
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/wg0GsFpeHAFPbbcfsntTQBggWCo.webp",
+            "genre_ids": [
+                16,
+                10765,
+                10759
+            ],
+            "id": 1429,
+            "origin_country": [
+                "JP"
+            ],
+            "original_language": "ja",
+            "original_name": "進撃の巨人",
+            "overview": "100 years ago, the last remnants of humanity were forced to retreat behind the towering walls of a fortified city to escape the massive, man-eating Titans that roamed the land outside their fortress. Only the members of the Scouting Legion dared to stray beyond the safety of the walls – but even those brave warriors seldom returned alive. Those within the city clung to the illusion of a peaceful existence until the day that dream was shattered, and their slim chance at survival was reduced to one horrifying choice: kill – or be devoured!",
+            "popularity": 23.8036,
+            "poster_path": "/hTP1DtLGFamjfu8WqjnuQdP1n4i.jpg",
+            "first_air_date": "2013-04-07",
+            "name": "Attack on Titan",
+            "vote_average": 8.671,
+            "vote_count": 7062
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tuCU2yVRM2iZxFkpqlPUyvd6tSu.webp",
+            "genre_ids": [
+                16,
+                35,
+                18,
+                10765
+            ],
+            "id": 94954,
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "Hazbin Hotel",
+            "overview": "In attempt to find a non-violent alternative for reducing Hell's overpopulation, the daughter of Lucifer opens a rehabilitation hotel that offers a group of misfit demons a chance at redemption.",
+            "popularity": 121.8432,
+            "poster_path": "/aVYHMW8pdzJ9qG1OGRMKyGy9xor.jpg",
+            "first_air_date": "2024-01-18",
+            "name": "Hazbin Hotel",
+            "vote_average": 8.659,
+            "vote_count": 1394
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mGHrUSt2uA5RaIheSmBfRnRHPS8.webp",
+            "genre_ids": [
+                16,
+                10765,
+                18,
+                10759,
+                35,
+                10762
+            ],
+            "id": 92685,
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "The Owl House",
+            "overview": "An animated fantasy-comedy series that follows Luz, a self-assured teenage girl who accidentally stumbles upon a portal to a magical world where she befriends a rebellious witch, Eda, and an adorably tiny warrior, King. Despite not having magical abilities, Luz pursues her dream of becoming a witch by serving as Eda's apprentice at the Owl House and ultimately finds a new family in an unlikely setting.",
+            "popularity": 13.7229,
+            "poster_path": "/zqjSex7DZn7p4dU7mMktdJ8zQV5.jpg",
+            "first_air_date": "2020-01-10",
+            "name": "The Owl House",
+            "vote_average": 8.66,
+            "vote_count": 1725
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/6U0e6OHklJAcMAuIoGXjTBS5zsI.webp",
+            "genre_ids": [
+                16,
+                10759,
+                10765
+            ],
+            "id": 46298,
+            "origin_country": [
+                "JP"
+            ],
+            "original_language": "ja",
+            "original_name": "HUNTER×HUNTER",
+            "overview": "To fulfill his dreams of becoming a legendary Hunter like his dad, a young boy must pass a rigorous examination and find his missing father.",
+            "popularity": 34.5914,
+            "poster_path": "/i2EEr2uBvRlAwJ8d8zTG2Y19mIa.jpg",
+            "first_air_date": "2011-10-02",
+            "name": "Hunter x Hunter",
+            "vote_average": 8.7,
+            "vote_count": 1965
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ywQtHG17LZhAFZyZtBflhtFMtJ7.webp",
+            "genre_ids": [
+                18,
+                10751
+            ],
+            "id": 70785,
+            "origin_country": [
+                "CA"
+            ],
+            "original_language": "en",
+            "original_name": "Anne with an E",
+            "overview": "A coming-of-age story about an outsider who, against all odds and numerous challenges, fights for love and acceptance and for her place in the world. The series centers on a young orphaned girl in the late 1890s, who, after an abusive childhood spent in orphanages and the homes of strangers, is mistakenly sent to live with an elderly woman and her aging brother. Over time, 13-year-old Anne will transform their lives and eventually the small town in which they live with her unique spirit, fierce intellect and brilliant imagination.",
+            "popularity": 16.8564,
+            "poster_path": "/6P6tXhjT5tK3qOXzxF9OMLlG7iz.jpg",
+            "first_air_date": "2017-03-19",
+            "name": "Anne with an E",
+            "vote_average": 8.656,
+            "vote_count": 4826
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/vRAM2el4bAygzUWfwXdt34E71Ee.webp",
+            "genre_ids": [
+                16,
+                10765,
+                10759,
+                35
+            ],
+            "id": 131378,
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "Adventure Time: Fionna & Cake",
+            "overview": "Fionna and Cake – with the help of the former Ice King, Simon Petrikov - embark on a multiverse-hopping adventure and journey of self-discovery. All the while a powerful new antagonist determined to track them down and erase them from existence, lurks in the shadows.",
+            "popularity": 22.1051,
+            "poster_path": "/fi1b6U1kp73xheECzqwzMn8u3mX.jpg",
+            "first_air_date": "2023-08-31",
+            "name": "Adventure Time: Fionna & Cake",
+            "vote_average": 8.7,
+            "vote_count": 267
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lNpkvX2s8LGB0mjGODMT4o6Up7j.webp",
+            "genre_ids": [
+                80,
+                18
+            ],
+            "id": 1398,
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "The Sopranos",
+            "overview": "The story of New Jersey-based Italian-American mobster Tony Soprano and the difficulties he faces as he tries to balance the conflicting requirements of his home life and the criminal organization he heads. Those difficulties are often highlighted through his ongoing professional relationship with psychiatrist Jennifer Melfi. The show features Tony's family members and Mafia associates in prominent roles and story arcs, most notably his wife Carmela and his cousin and protégé Christopher Moltisanti.",
+            "popularity": 56.2945,
+            "poster_path": "/rTc7ZXdroqjkKivFPvCPX0Ru7uw.jpg",
+            "first_air_date": "1999-01-10",
+            "name": "The Sopranos",
+            "vote_average": 8.65,
+            "vote_count": 3165
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/z3BkMbCy5ajZPMyKEUwsPHuz2cV.webp",
+            "genre_ids": [
+                18
+            ],
+            "id": 250307,
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "The Pitt",
+            "overview": "The staff of Pittsburgh's Trauma Medical Center work around the clock to save lives in an overcrowded and underfunded emergency department.",
+            "popularity": 21.6583,
+            "poster_path": "/6fMGktEDXMZZPACJ5cWkVQ6TSte.jpg",
+            "first_air_date": "2025-01-09",
+            "name": "The Pitt",
+            "vote_average": 8.647,
+            "vote_count": 282
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tnDqjnRXtTWaHIJ5TDDeFphhIVz.webp",
+            "genre_ids": [
+                16,
+                35
+            ],
+            "id": 42573,
+            "origin_country": [
+                "JP"
+            ],
+            "original_language": "ja",
+            "original_name": "スラムダンク",
+            "overview": "Sakuragi Hanamichi is a junior high punk used to getting into fights and being rejected by girls but upon entering high school he meets the girl of his dreams, Haruko Akagi. He will do anything in order to win her heart including joining the school basketball team that is aiming to conquer the nation lead by Haruko's brother. The problem is that Sakuragi has never played basketball before and a freshman sensation is stealing the spotlight and Haruko's affection from him.",
+            "popularity": 13.6023,
+            "poster_path": "/gpkM8VeiYyQuEg9qkAoNplktwe4.jpg",
+            "first_air_date": "1993-10-16",
+            "name": "Slam Dunk",
+            "vote_average": 8.6,
+            "vote_count": 937
+        }
+    ] ,
+    "toprated":[{
+        "series_ids": [1396 , 42573 , 131378 , 92685 ,1429 ,60059 , 246] ,
+        "movies_ids": [1197137,1025527,755898,1305717,1280450,803796,1284120] 
+    }
+    ],
+    "trending":[{
+        "series_ids": [219246,94605,209867,37854,85077,31911,87108] ,
+        "movies_ids": [1062722,1242898 ,1096563,1218925 ,1161617,1311031,1511789] 
+    }
+    ]
+}
